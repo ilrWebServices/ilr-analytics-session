@@ -1,0 +1,4 @@
+services:
+  ilr_analytics_session_manager:
+    class: '\Drupal\ilr_analytics_session\IlrAnalyticsSessionManager'
+    arguments: ['@request_stack']

@@ -1,0 +1,5 @@
+name: 'ILR Analytics Session'
+type: module
+description: 'A small Drupal module that provides a service to get an analytics ID (initially Google) from the current session.'
+core_version_requirement: ^10 || ^11
+package: 'ILR'
