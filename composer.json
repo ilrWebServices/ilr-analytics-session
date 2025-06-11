@@ -1,0 +1,6 @@
+{
+  "name": "drupal/ilr_analytics_session",
+  "description": " A small Drupal module that provides a service to get an analytics ID (initially Google) from the current session.",
+  "type": "drupal-module",
+  "minimum-stability": "dev"
+}
